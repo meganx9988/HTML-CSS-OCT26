@@ -22,5 +22,14 @@
   "bugs": {
     "url": "https://github.com/meganx9988/HTML-CSS-OCT26/issues"
   },
-  "homepage": "https://github.com/meganx9988/HTML-CSS-OCT26#readme"
+  "homepage": "https://github.com/meganx9988/HTML-CSS-OCT26#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.6.2",
+    "postcss": "^8.5.32",
+    "postcss-cli": "^12.0.0",
+    "sass": "^1.107.1"
+  },
+  "allowScripts": {
+    "@parcel/watcher@2.6.0": true
+  }
 }
